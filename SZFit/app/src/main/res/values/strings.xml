@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Snizer IMC</string>
+    <string name="titulo">Quanto devo pesar ?</string>
+
+    <string-array name="altura_medida">
+        <item>cm</item>
+        <item>m</item>
+        <item>inch</item>
+    </string-array>
+
+    <string-array name="peso_medida">
+        <item>kg</item>
+        <item>lbs</item>
+    </string-array>
+
+    <string name="erro_titulo">Aviso</string>
+    <string name="erro_corpo">Há campos vazios ou inválidos !</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="label_altura">Altura</string>
+
+    <string name="label_peso">Peso</string>
+    <string name="label_faixapeso">Faixa de peso saudável  %1$d kg - %2$d kg</string>
+
+    <string name="grau_0">abaixo do peso</string>
+    <string name="grau_1">normal</string>
+    <string name="grau_2">levemente acima do peso</string>
+    <string name="grau_3">obeso grau 1</string>
+    <string name="grau_4">obeso grau 2 (severa)</string>
+    <string name="grau_5">obeso grau 3 (mórbida)</string>
+
+    <string name="imc_msg_sobrepeso">Seu imc é %1$s\n\nVocê está %2$s do peso e precisa emagrecer  pelo menos %3$d e no máximo %4$d %5$s para chegar a um índice de massa corporal saudável</string>
+    <string name="imc_msg_saudavel">Seu imc é %1$s\n\nVocê está saudável</string>
+    <string name="imc_msg_abaixo">Seu imc é %1$s\n\nVocê está abaixo do peso e precisa engordar  pelo menos %2$d e no máximo %3$d %4$s para chegar a um índice de massa corporal saudável</string>
+
+
+</resources>
